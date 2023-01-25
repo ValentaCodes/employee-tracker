@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/License-MIT-blue" />
 </a>
 
-## *Table of Contents*
+## _Table of Contents_
 
 - [Description](#description)
 - [Tools](#tools)
@@ -19,54 +19,53 @@
 
 ## **Description**
 
-  A CLI tool that allows users to update and track employees, salary, and department.
+A CLI tool that allows users to update and track employees, salaries, roles, and departments. A great starter tool for a small company.
 
 ## **Tools**
 
-  MySQL, JavaScript, Node, npm: inquirer@8.2.4 console.table, MySQL2
+MySQL, JavaScript, Node, npm: inquirer@8.2.4 console.table, MySQL2, dotenv
 
 ## **Motivation**
 
-  To test my knowledge in how databases play a role in beck-end development.
+I wanted to test my knowledge in RDBMS, and to further understand how they play a role in back-end development.
 
 ## **Installation**
-  
-  update!
+
+Coming Soon
 
 ## **Usage**
 
-  update
+Coming Soon
 
 ## **Contribution**
 
-  N/A
-  
+N/A
+
 ## **Testing**
 
-  N/A
+N/A
 
 ## **Screenshots**
 
-  Add your screenshots here:
+Coming Soon
 
-  ![ALT TEXT](URL)
+![ALT TEXT](URL)
 
 ## **Links**
-  
-  Add any relevant links for this project below:
 
-  [Your Website](URL)
+Coming Soon
+
+[Your Website](URL)
 
 ## License
 
-  This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the MIT license.
 
-  Detailed information about this license can be found here: [License Info](https://choosealicense.com/licenses/mit)
+Detailed information about this license can be found here: [License Info](https://choosealicense.com/licenses/mit)
 
 ## Questions
 
-  Any question about this project contact me here:
+Any question about this project contact me here:
 
 - [Github](https://github.com/valentacodes)
 - <valentacodes@gmail.com>
-  
