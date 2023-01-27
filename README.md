@@ -4,6 +4,10 @@
 <img src="https://img.shields.io/badge/License-MIT-blue" />
 </a>
 
+## HOW TO USE 
+
+https://user-images.githubusercontent.com/92850947/215218387-5ae60abf-1df7-4ef7-83c9-404d7c2fd27a.mp4
+
 ## _Table of Contents_
 
 - [Description](#description)
