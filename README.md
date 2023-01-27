@@ -31,11 +31,18 @@ I wanted to test my knowledge in RDBMS, and to further understand how they play 
 
 ## **Installation**
 
-Coming Soon
+- Download or Clone project
+- Navigate to respective folder
+
+```en
+npm i
+```
 
 ## **Usage**
 
-Coming Soon
+```en
+node start.app
+```
 
 ## **Contribution**
 
@@ -58,9 +65,7 @@ N/A
 
 ## **Links**
 
-Coming Soon
-
-[Your Website](URL)
+N/A
 
 ## License
 
