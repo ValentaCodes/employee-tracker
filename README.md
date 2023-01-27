@@ -40,6 +40,8 @@ npm i
 
 ## **Usage**
 
+- BEFORE THIS PROGRAM WILL WORK YOU MUST ENTER YOUR MYSQL CREDENTIALS TO THE CONFIG FILE
+
 ```en
 node start.app
 ```
