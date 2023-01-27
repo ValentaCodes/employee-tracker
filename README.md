@@ -47,9 +47,14 @@ N/A
 
 ## **Screenshots**
 
-Coming Soon
-
-![ALT TEXT](URL)
+![ALT TEXT](./assets/screenshots/Screen%20Shot%202023-01-27%20at%201.28.58%20AM.png)
+![ALT TEXT](./assets/screenshots/Screen%20Shot%202023-01-27%20at%201.30.59%20AM.png)
+![ALT TEXT](./assets/screenshots/Screen%20Shot%202023-01-27%20at%201.31.20%20AM.png)
+![ALT TEXT](./assets/screenshots/Screen%20Shot%202023-01-27%20at%201.31.34%20AM.png)
+![ALT TEXT](./assets/screenshots/Screen%20Shot%202023-01-27%20at%201.31.48%20AM.png)
+![ALT TEXT](./assets/screenshots/Screen%20Shot%202023-01-27%20at%201.35.01%20AM.png)
+![ALT TEXT](./assets/screenshots/Screen%20Shot%202023-01-27%20at%201.36.34%20AM.png)
+![ALT TEXT](./assets/screenshots/Screen%20Shot%202023-01-27%20at%201.42.09%20AM.png)
 
 ## **Links**
 
